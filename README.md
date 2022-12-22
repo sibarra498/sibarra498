@@ -9,13 +9,16 @@ You can use the website to generate badges: https://shields.io/
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sibarra498)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:sibarra92@javerianacali.edu.co)
 
-  <h2 align="center"> Quien soy? </h2>
-  <h3> Apasionado por la data, son un data scientist con gran interés en Data Engieering y en Machine Learning, con la habilidad de llevar a cabo proyectos en gestión de la data. Cuento con experiencia trabajando en proyectos con MySql, Python, Docker y Power BI. Me gusta adquirir nuevos conocimientos y experiencias que aporten a consolidar mis habilidades personales y profesionales en donde pueda ayudar a las    personas. 
+  <h2 align="center"> Who am i? 💻 </h2>
+  <h3> I am a data scientist with great interest in Data Engineering and Machine Learning, with the ability to carry out data management projects. I have experience working on projects with MySql, Python, Docker and Power BI. I like to acquire new knowledge and experiences that contribute to consolidate my personal and professional skills where I can help people. 
   </h3>
 
   ## Technologies I'm Learning :books:
-  ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a)
-  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+  ⚡ Python
+  ⚡ MySql
+  ⚡ Docker
+  ⚡ Spark
+  ⚡ PostgreSQL
+  ⚡ Power BI
 </div>
   
